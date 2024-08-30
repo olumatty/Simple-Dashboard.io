@@ -1,0 +1,46 @@
+.content{
+    margin-left:60px;
+}
+.content-button{
+    margin-top:24px;
+    display: flex;
+    gap:8px;
+}
+
+.content-button .first{
+    width:113px;
+    height: 35px;
+    gap:8px;
+    border-radius:16px;
+    border:none;
+    border:1px solid #8E8B82;
+    background: #FFFFFF;
+    color: #8E8B82;
+    cursor:pointer;
+}
+
+.content-button .second{
+    width:168px;
+    height: 35px;
+    gap:8px;
+    border-radius:16px;
+    border:none;
+    border:1px solid #8E8B82;
+    background: #FFFFFF;
+    color: #8E8B82;
+    cursor:pointer;
+}
+.content-button .third{
+    width:80px;
+    height: 35px;
+    gap:8px;
+    border-radius:16px;
+    border:none;
+    border:1px solid #8E8B82;
+    background: #FFFFFF;
+    color: #8E8B82;
+    cursor:pointer;
+}
+.content-button button:hover{
+    background:#E9DCBE;
+}

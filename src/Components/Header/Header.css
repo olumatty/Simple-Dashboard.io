@@ -1,0 +1,50 @@
+.header_card{
+    margin: 60px 70px;
+}
+
+.Title{
+    display:flex;
+    justify-content: space-between;
+}
+
+.Title h2{
+    font-size:32px;
+    font-weight: 700;
+}
+
+.Title button {
+    width:174px;
+    height: 35px;
+    border-radius: 8px;
+    background:#343434;
+    color:#FFFFFF;
+}
+.Cards{
+    margin-top:40px;
+    display:flex;
+    gap: 16px;
+}
+.card{
+    border:1px solid #F3F3F3;
+    border-radius:8px;
+    width:380px;
+    height:170px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+}
+.card p{
+    margin:20px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #343434;
+}
+
+.card h2{
+    margin:0px 20px;
+    font-size: 64px;
+    font-weight: 700;
+    color: #343434;
+}
+.card .red{
+    color:#C52424;
+}
