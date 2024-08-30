@@ -11,7 +11,7 @@ const Dashboard = () => {
         <p> Qtd.itens </p>
         <p> Valor total do pedido </p>
         <p> Metodo de pagamento </p>
-        <p> Acoes </p>
+        <p className="main"> Acoes </p>
       </div>
 
       <div className="dashboard-format dashboard-format-main">
